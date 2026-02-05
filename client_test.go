@@ -3,8 +3,8 @@ package gophermc_test
 import (
 	"context"
 	"fmt"
-	"github.com/SyNdicateFoundation/GopherMc"
-	"github.com/SyNdicateFoundation/GopherMc/protocol"
+	"github.com/IzomSoftware/GopherMc"
+	"github.com/IzomSoftware/GopherMc/protocol"
 	"strconv"
 	"strings"
 	"testing"

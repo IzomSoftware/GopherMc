@@ -1,7 +1,7 @@
 package gophermc
 
 import (
-	"github.com/SyNdicateFoundation/GopherMc/component"
+	"github.com/IzomSoftware/GopherMc/component"
 	"time"
 )
 

@@ -9,7 +9,7 @@ GopherMc is a powerful and flexible Go library for creating Minecraft clients (b
 API for interacting with Minecraft servers, supporting a wide range of protocol versions from **1.7** to the latest
 releases.
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/SyNdicateFoundation/GopherMc)](https://goreportcard.com/report/github.com/SyNdicateFoundation/GopherMc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/IzomSoftware/GopherMc)](https://goreportcard.com/report/github.com/IzomSoftware/GopherMc)
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ releases.
 To add GopherMc to your project, simply use `go get`:
 
 ```sh
-go get github.com/SyNdicateFoundation/GopherMc
+go get github.com/IzomSoftware/GopherMc
 ```
 
 ## 🚀 Usage Examples
@@ -45,7 +45,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/SyNdicateFoundation/GopherMc"
+	"github.com/IzomSoftware/GopherMc"
 	"log"
 	"time"
 )
@@ -85,8 +85,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/SyNdicateFoundation/GopherMc"
-	"github.com/SyNdicateFoundation/GopherMc/protocol"
+	"github.com/IzomSoftware/GopherMc"
+	"github.com/IzomSoftware/GopherMc/protocol"
 	"log"
 	"time"
 )
@@ -134,7 +134,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/SyNdicateFoundation/GopherMc"
+	"github.com/IzomSoftware/GopherMc"
 	"log"
 )
 

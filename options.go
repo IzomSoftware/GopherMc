@@ -2,7 +2,7 @@ package gophermc
 
 import (
 	"crypto/rsa"
-	"github.com/SyNdicateFoundation/GopherMc/protocol"
+	"github.com/IzomSoftware/GopherMc/protocol"
 	"github.com/google/uuid"
 	"net"
 )

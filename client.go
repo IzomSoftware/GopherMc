@@ -6,7 +6,7 @@ import (
 	"crypto/rsa"
 	"errors"
 	"fmt"
-	"github.com/SyNdicateFoundation/GopherMc/protocol"
+	"github.com/IzomSoftware/GopherMc/protocol"
 	"io"
 	"log"
 	"net"
